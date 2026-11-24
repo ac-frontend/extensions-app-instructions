@@ -27,7 +27,7 @@ The finished app: https://jazzy-gingersnap-f22954.netlify.app/
 - **Finished app:** https://jazzy-gingersnap-f22954.netlify.app/
 - **Starter code:** [`extensions-app`](https://github.com/ac-frontend/extensions-app)
 - **Pseudo-code worksheet:** `pseudo-code.txt` in this folder
-- **Documentation guides:** *(add link to the documentation guides)*
+- **Handy guides:** The teaching team at AnnieCannons has provided some [handy guides](https://docs.google.com/document/d/18jxCUA0bebCyYaIHy8aaKMgOQH4w5-b-iCGDWpV4K4M/edit?tab=t.0#heading=h.ykdbmvmlp0ag) to help you use GitHub and other coding tools
 
 ## 📝 Tips for building your project
 
@@ -47,7 +47,7 @@ Your colors, spacing and fonts can be different. Make it your own.
 
 ### ⚙️ Fork and clone the starter repo
 
-1. Fork the [`extensions-app`](https://github.com/ac-frontend/extensions-app) repo. Use the fork and clone guide *(add link)*.
+1. Fork the [`extensions-app`](https://github.com/ac-frontend/extensions-app) repo. Use this [fork and clone guide](https://docs.google.com/document/d/18jxCUA0bebCyYaIHy8aaKMgOQH4w5-b-iCGDWpV4K4M/edit?tab=t.55gk3qetux2a#heading=h.wbbot8ebr58a).
 2. Clone **your fork** into your `dev` folder.
 3. Open your `extensions-app` folder in VS Code.
 

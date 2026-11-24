@@ -29,7 +29,7 @@ The finished app: https://jazzy-gingersnap-f22954.netlify.app/
 - **Finished app:** https://jazzy-gingersnap-f22954.netlify.app/
 - **Starter code:** [`extensions-app`](https://github.com/ac-frontend/extensions-app)
 - **Pseudo-code worksheet:** `pseudo-code.txt` in this folder
-- **Documentation guides:** *(add link to the documentation guides)*
+- **Handy guides:** The teaching team at AnnieCannons has provided some [handy guides](https://docs.google.com/document/d/18jxCUA0bebCyYaIHy8aaKMgOQH4w5-b-iCGDWpV4K4M/edit?tab=t.0#heading=h.ykdbmvmlp0ag) to help you use GitHub and other coding tools
 - **Toggle package (optional):** [react-switch](https://www.npmjs.com/package/react-switch)
 
 ## 📝 Tips for building your project

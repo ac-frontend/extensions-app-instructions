@@ -10,7 +10,7 @@ This repo has the instructions for Versions 1 to 3. The code you build lives in 
 
 - **Finished app:** https://jazzy-gingersnap-f22954.netlify.app/
 - **Starter code:** [`extensions-app`](https://github.com/ac-frontend/extensions-app) has the data, the logos and a blank React project
-- **Documentation guides:** *(add link to the documentation guides)*
+- **Handy guides:** The teaching team at AnnieCannons has provided some [handy guides](https://docs.google.com/document/d/18jxCUA0bebCyYaIHy8aaKMgOQH4w5-b-iCGDWpV4K4M/edit?tab=t.0#heading=h.ykdbmvmlp0ag) to help you use GitHub and other coding tools
 
 ## 🚀 The Roadmap
 
