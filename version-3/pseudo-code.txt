@@ -1,0 +1,38 @@
+==================================
+🧠 EXTENSIONS APP — VERSION 3 PSEUDO-CODE WORKSHEET
+==================================
+
+Fill this out before you write code. This is pseudo-code: outline the actions in plain language. Don't write code yet.
+
+Part 1: Plan your form and your theme
+
+--------------------
+Component: ________________
+--------------------
+
+  1. Props: What props will it receive from its parent?
+
+  2. Children: What child components does it need? What props do they get?
+
+  3. User Actions: What can the user do here? Which function handles each action?
+
+  4. State: What state variables does it need?
+
+  5. Steps: What are the first 3 to 5 steps you will take to build it?
+
+  6. Notes: Extra thoughts, questions or reminders.
+
+Part 2: Plan your data
+This is the WHAT, WHEN, WHERE, HOW framework for working with data.
+
+  1. WHAT data should we get? What request do we send, and to what URL?
+     What do we get back, and what is its data type?
+
+  2. WHEN should we get it? What event or user action is the trigger?
+
+  3. WHERE does this happen in the code? Which component or function?
+
+  4. HOW do we do it? What steps do we need?
+     - What do we show while the data is loading?
+     - What do we show if something goes wrong?
+

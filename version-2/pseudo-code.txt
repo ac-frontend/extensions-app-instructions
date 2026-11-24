@@ -1,0 +1,30 @@
+==================================
+🧠 EXTENSIONS APP — VERSION 2 PSEUDO-CODE WORKSHEET
+==================================
+
+Fill this out before you write code. This is pseudo-code: outline the actions in plain language. Don't write code yet.
+
+Part 1: Plan your components (copy this block for each component)
+
+--------------------
+Component: ________________
+--------------------
+
+  1. Props: What props will it receive from its parent?
+
+  2. Children: What child components does it need? What props do they get?
+
+  3. User Actions: What can the user do here? Which function handles each action?
+
+  4. State: What state variables does it need?
+
+  5. Steps: What are the first 3 to 5 steps you will take to build it?
+
+  6. Notes: Extra thoughts, questions or reminders.
+
+Part 2: Plan your state
+  1. What data changes while the user uses the app?
+  2. Which component owns that data? Why?
+  3. What functions change it, and which components call them?
+  4. How will you show only active, only inactive, or all extensions without losing any?
+

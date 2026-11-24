@@ -1,0 +1,16 @@
+==================================
+🧠 EXTENSIONS APP — VERSION 1 PSEUDO-CODE WORKSHEET
+==================================
+
+Fill this out before you write code. This is pseudo-code: outline the actions in plain language. Don't write code yet.
+
+Part 1: Plan your data
+  1. What does one extension object look like? List its properties.
+  2. How will you get the first extension out of the array?
+  3. How will you show every extension in the array?
+
+Part 2: Plan your card
+  1. What information does a card show?
+  2. What do you need to do to show a line that says whether it is active?
+  3. How will the cards be laid out on the page?
+
