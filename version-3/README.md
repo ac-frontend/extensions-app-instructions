@@ -36,6 +36,10 @@ See the tips and the commit message guide in the [main README](../README.md).
 
 ## Checkpoint 1: Add Extension Form
 
+### 💎 What it should look like
+
+![A form with Name, Description and an Active checkbox above the extension cards](images/add-form.png)
+
 - [ ] A form with a name, a description and an Active checkbox
 - [ ] The form is a component with **controlled inputs**
 - [ ] Submitting adds a new card without reloading the page
@@ -49,6 +53,16 @@ See the tips and the commit message guide in the [main README](../README.md).
 
 ## Checkpoint 2: Light and Dark Mode
 
+### 💎 What it should look like
+
+Dark mode:
+
+![The app in dark mode with a nav bar and a button in the top right](images/dark-mode.png)
+
+Light mode:
+
+![The same app in light mode](images/light-mode.png)
+
 - [ ] A `NavBar` component with the app name and a button
 - [ ] The button switches between light and dark mode, and its icon shows which mode you will switch to
 - [ ] The whole app changes: page, nav bar, form, buttons and cards
@@ -59,6 +73,10 @@ See the tips and the commit message guide in the [main README](../README.md).
 ---
 
 ## Checkpoint 3: Load From an API and Finish
+
+### 💎 What it should look like
+
+The app looks the same as Checkpoint 2. The difference is that the extensions now come from the API, with a loading message first.
 
 Fill out Part 2 of the `pseudo-code.txt` file before you start.
 

@@ -38,6 +38,12 @@ See the tips and the commit message guide in the [main README](../README.md).
 
 ## Checkpoint 1: Split Into Components
 
+### 💎 What it should look like
+
+![Twelve extension cards on a dark blue page](images/components.png)
+
+The page should look the same as in Version 1. Only the code changes.
+
 ### ⚙️ Pseudo-code
 
 Fill out Part 1 of the `pseudo-code.txt` file in this folder.
@@ -56,6 +62,12 @@ Fill out Part 1 of the `pseudo-code.txt` file in this folder.
 ---
 
 ## Checkpoint 2: Toggle, Remove and Filter
+
+### 💎 What it should look like
+
+![Extension cards, each with a Remove button and a toggle, and All, Active and Inactive filter buttons at the top right](images/toggle-remove-filter.png)
+
+Each card has a toggle and a Remove button. The selected filter button looks different from the others.
 
 ### ⚙️ Pseudo-code
 
